@@ -1,5 +1,5 @@
 ## url-crawler
-#**Create a web server that crawls url for inside links**
+# **Create a web server that crawls url for inside links**
 
 - Create a web server that exposes the following endpoint: /crawl?url=x&number=y
 - When this endpoint is accessed, the URL (x value) is crawled and a total of “number” (y value) of unique URLs are retrieved.
@@ -38,4 +38,4 @@ Crawling scenario example:
 the result will contain only these 3 URLs
 
 
-See: [How to make a simple web crawler in Java] (http://www.netinstructions.com/how-to-make-a-simple-web-crawler-in-java/)
+See: [How to make a simple web crawler in Java](http://www.netinstructions.com/how-to-make-a-simple-web-crawler-in-java/)
